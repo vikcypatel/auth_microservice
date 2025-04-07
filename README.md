@@ -66,3 +66,5 @@ TWILIO_PHONE_NUMBER=""
   ```bash     
         celery -A Authentication_microService worker --loglevel=info
   ```
+
+#### please check all api in postman.
